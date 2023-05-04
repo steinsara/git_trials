@@ -1,1 +1,5 @@
 print("monkey")
+
+print("whale")
+
+
